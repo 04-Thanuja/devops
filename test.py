@@ -1,1 +1,2 @@
 print("thanu")
+print("hi")
